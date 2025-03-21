@@ -16,8 +16,7 @@ This module is responsible for processing images captured by multiple cameras. I
 - Normalizes coordinates to ensure consistency.
 - Usage:
   ```bash
-  python convert_labels.py --json-dir path/to/jsons --save-dir path/to/output --classes "cat,dog"
-  ```
+  python convert_labels.py --json-dir path/to/jsons --save-dir path/to/output --classes "leaves“
 
 ### 3. `copy_images.py`
 - Copies images from multiple source folders to a single destination folder.
