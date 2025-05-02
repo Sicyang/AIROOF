@@ -1,0 +1,1102 @@
+{
+    "B000C00U2513": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2513-868020035312320-13032025080002-5-SYPW0240.png",
+        "roi_points": [
+            [
+                352,
+                1486
+            ],
+            [
+                3994,
+                1486
+            ],
+            [
+                3994,
+                2858
+            ],
+            [
+                352,
+                2858
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2525": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2525-868020035314375-11032025150002-5-SYPW0241.png",
+        "roi_points": [
+            [
+                182,
+                872
+            ],
+            [
+                2660,
+                872
+            ],
+            [
+                2660,
+                2812
+            ],
+            [
+                182,
+                2812
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2535": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2535-868020035315992-11032025150002-5-SYPW0240.png",
+        "roi_points": [
+            [
+                1940,
+                314
+            ],
+            [
+                2574,
+                314
+            ],
+            [
+                2574,
+                2924
+            ],
+            [
+                1940,
+                2924
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2538": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2538-868020033959494-21032025080002-5-SYPW0260.png",
+        "roi_points": [
+            [
+                1684,
+                1522
+            ],
+            [
+                2456,
+                1522
+            ],
+            [
+                2456,
+                2842
+            ],
+            [
+                1684,
+                2842
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2539": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2539-868020035315125-12032025080002-3-SYPW0235.png",
+        "roi_points": [
+            [
+                1812,
+                694
+            ],
+            [
+                3072,
+                694
+            ],
+            [
+                3072,
+                1700
+            ],
+            [
+                1812,
+                1700
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2541": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2541-868020035313732-17032025150002-5-SYPW0246.png",
+        "roi_points": [
+            [
+                1222,
+                1340
+            ],
+            [
+                2864,
+                1340
+            ],
+            [
+                2864,
+                2924
+            ],
+            [
+                1222,
+                2924
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2542": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2542-868020034897206-14032025080002-5-SYPW0248.png",
+        "roi_points": [
+            [
+                1932,
+                872
+            ],
+            [
+                2590,
+                872
+            ],
+            [
+                2590,
+                2900
+            ],
+            [
+                1932,
+                2900
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2544": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2544-868020033953133-21032025080002-5-SYPW0259.png",
+        "roi_points": [
+            [
+                1896,
+                1592
+            ],
+            [
+                2590,
+                1592
+            ],
+            [
+                2590,
+                2834
+            ],
+            [
+                1896,
+                2834
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2551": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2551-868020035312072-19032025080002-5-SYPW0298.png",
+        "roi_points": [
+            [
+                1224,
+                464
+            ],
+            [
+                2876,
+                464
+            ],
+            [
+                2876,
+                1324
+            ],
+            [
+                1224,
+                1324
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2553": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2553-868020034903004-14032025080302-5-SYPW0185.png",
+        "roi_points": [
+            [
+                682,
+                136
+            ],
+            [
+                3322,
+                136
+            ],
+            [
+                3322,
+                2750
+            ],
+            [
+                682,
+                2750
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2554": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2554-868020035310175-16032025150302-4-SYPW0190.png",
+        "roi_points": [
+            [
+                676,
+                1374
+            ],
+            [
+                2706,
+                1374
+            ],
+            [
+                2706,
+                2958
+            ],
+            [
+                676,
+                2958
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2558": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2558-868020035313997-16032025080302-5-SYPW0192.png",
+        "roi_points": [
+            [
+                2004,
+                906
+            ],
+            [
+                3994,
+                906
+            ],
+            [
+                3994,
+                2978
+            ],
+            [
+                2004,
+                2978
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2560": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2560-868020034902337-14032025080302-4-SYPW0185.png",
+        "roi_points": [
+            [
+                1382,
+                778
+            ],
+            [
+                3442,
+                778
+            ],
+            [
+                3442,
+                2776
+            ],
+            [
+                1382,
+                2776
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2563": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2563-868020035314706-19032025150102-5-SYPW0190.png",
+        "roi_points": [
+            [
+                1146,
+                836
+            ],
+            [
+                3994,
+                836
+            ],
+            [
+                3994,
+                2784
+            ],
+            [
+                1146,
+                2784
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2564": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2564-868020035312031-19032025150102-4-SYPW0191.png",
+        "roi_points": [
+            [
+                788,
+                1046
+            ],
+            [
+                3994,
+                1046
+            ],
+            [
+                3994,
+                2870
+            ],
+            [
+                788,
+                2870
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2570": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2570-868020035312163-13032025080302-5-SYPW0184.png",
+        "roi_points": [
+            [
+                1310,
+                1518
+            ],
+            [
+                3868,
+                1518
+            ],
+            [
+                3868,
+                2932
+            ],
+            [
+                1310,
+                2932
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2572": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2572-868020035312643-12032025150402-3-SYPW0182.png",
+        "roi_points": [
+            [
+                910,
+                1180
+            ],
+            [
+                2820,
+                1180
+            ],
+            [
+                2820,
+                2970
+            ],
+            [
+                910,
+                2970
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2573": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2573-868020035308955-12032025150404-5-SYPW0170.png",
+        "roi_points": [
+            [
+                1718,
+                592
+            ],
+            [
+                3036,
+                592
+            ],
+            [
+                3036,
+                2862
+            ],
+            [
+                1718,
+                2862
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2575": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2575-868020034897388-12032025150402-5-SYPW0169.png",
+        "roi_points": [
+            [
+                1376,
+                112
+            ],
+            [
+                2838,
+                112
+            ],
+            [
+                2838,
+                2978
+            ],
+            [
+                1376,
+                2978
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2578": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2578-868020034899988-11032025150402-4-SYPW0166.png",
+        "roi_points": [
+            [
+                2060,
+                272
+            ],
+            [
+                3994,
+                272
+            ],
+            [
+                3994,
+                2738
+            ],
+            [
+                2060,
+                2738
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2582": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2582-868020035311256-11032025150402-4-SYPW0167.png",
+        "roi_points": [
+            [
+                1482,
+                712
+            ],
+            [
+                2754,
+                712
+            ],
+            [
+                2754,
+                2978
+            ],
+            [
+                1482,
+                2978
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2585": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2585-868020035310761-13032025080504-4-SYPW0178.png",
+        "roi_points": [
+            [
+                1962,
+                712
+            ],
+            [
+                3994,
+                712
+            ],
+            [
+                3994,
+                2966
+            ],
+            [
+                1962,
+                2966
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2590": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2590-868020035313989-14032025080502-4-SYPW0172.png",
+        "roi_points": [
+            [
+                1256,
+                678
+            ],
+            [
+                3068,
+                678
+            ],
+            [
+                3068,
+                2858
+            ],
+            [
+                1256,
+                2858
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2591": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2591-868020035310902-10022025150502-5-SYPW0107.png",
+        "roi_points": [
+            [
+                450,
+                54
+            ],
+            [
+                1010,
+                54
+            ],
+            [
+                1010,
+                756
+            ],
+            [
+                450,
+                756
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2592": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2592-868020034897172-10022025150502-5-SYPW0112.png",
+        "roi_points": [
+            [
+                390,
+                180
+            ],
+            [
+                854,
+                180
+            ],
+            [
+                854,
+                756
+            ],
+            [
+                390,
+                756
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2593": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2593-868020034050152-11032025150502-5-SYPW0167.png",
+        "roi_points": [
+            [
+                1630,
+                612
+            ],
+            [
+                3564,
+                612
+            ],
+            [
+                3564,
+                2834
+            ],
+            [
+                1630,
+                2834
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2595": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2595-868020035315141-21032025080502-5-SYPW0183.png",
+        "roi_points": [
+            [
+                106,
+                410
+            ],
+            [
+                3994,
+                410
+            ],
+            [
+                3994,
+                2954
+            ],
+            [
+                106,
+                2954
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2596": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2596-868020035314540-19032025080604-5-SYPW0186.png",
+        "roi_points": [
+            [
+                624,
+                178
+            ],
+            [
+                3906,
+                178
+            ],
+            [
+                3906,
+                2756
+            ],
+            [
+                624,
+                2756
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2598": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2598-868020035309839-12032025080602-5-SYPW0167.png",
+        "roi_points": [
+            [
+                998,
+                798
+            ],
+            [
+                3184,
+                798
+            ],
+            [
+                3184,
+                2458
+            ],
+            [
+                998,
+                2458
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2601": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2601-868020035308062-21032025080602-5-SYPW0183.png",
+        "roi_points": [
+            [
+                826,
+                46
+            ],
+            [
+                3212,
+                46
+            ],
+            [
+                3212,
+                2826
+            ],
+            [
+                826,
+                2826
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2602": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2602-868020035310191-13032025080602-5-SYPW0169.png",
+        "roi_points": [
+            [
+                1020,
+                232
+            ],
+            [
+                3344,
+                232
+            ],
+            [
+                3344,
+                2826
+            ],
+            [
+                1020,
+                2826
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2603": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2603-868020035306751-18032025150602-5-SYPW0179.png",
+        "roi_points": [
+            [
+                982,
+                388
+            ],
+            [
+                3658,
+                388
+            ],
+            [
+                3658,
+                1460
+            ],
+            [
+                982,
+                1460
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2604": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2604-868020035309714-11032025150602-5-SYPW0164.png",
+        "roi_points": [
+            [
+                1460,
+                608
+            ],
+            [
+                3994,
+                608
+            ],
+            [
+                3994,
+                2924
+            ],
+            [
+                1460,
+                2924
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2605": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2605-868020035308807-13032025150602-5-SYPW0169.png",
+        "roi_points": [
+            [
+                634,
+                876
+            ],
+            [
+                3548,
+                876
+            ],
+            [
+                3548,
+                2800
+            ],
+            [
+                634,
+                2800
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2607": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2607-868020035312650-10022025150602-5-SYPW0106.png",
+        "roi_points": [
+            [
+                252,
+                192
+            ],
+            [
+                950,
+                192
+            ],
+            [
+                950,
+                642
+            ],
+            [
+                252,
+                642
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B050C01U2501": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B050C01U2501-868020033962167-13032025080102-5-SYPW0352.png",
+        "roi_points": [
+            [
+                1084,
+                1138
+            ],
+            [
+                3064,
+                1138
+            ],
+            [
+                3064,
+                2692
+            ],
+            [
+                1084,
+                2692
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B050C02U2502": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B050C02U2502-868020033961144-12032025080102-5-SYPW0350.png",
+        "roi_points": [
+            [
+                1552,
+                762
+            ],
+            [
+                3382,
+                762
+            ],
+            [
+                3382,
+                2676
+            ],
+            [
+                1552,
+                2676
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "Camera1": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/Camera1_April_2_2024_07_00_00_AM.png",
+        "roi_points": [
+            [
+                280,
+                64
+            ],
+            [
+                448,
+                64
+            ],
+            [
+                448,
+                354
+            ],
+            [
+                280,
+                354
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "Camera2": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/Camera2_April_26_2024_09_01_00_35.png",
+        "roi_points": [
+            [
+                2,
+                256
+            ],
+            [
+                564,
+                256
+            ],
+            [
+                564,
+                670
+            ],
+            [
+                2,
+                670
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "Camera3": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/Camera3_4_April_2024_02_00_00AM.png",
+        "roi_points": [
+            [
+                160,
+                130
+            ],
+            [
+                364,
+                130
+            ],
+            [
+                364,
+                294
+            ],
+            [
+                160,
+                294
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "Camera4": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/Camera4_March_20_2024_10_00_00_AM.png",
+        "roi_points": [
+            [
+                318,
+                44
+            ],
+            [
+                634,
+                44
+            ],
+            [
+                634,
+                322
+            ],
+            [
+                318,
+                322
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "Camera5": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/Camera5_May_17_2024_09_00_00_AM.png",
+        "roi_points": [
+            [
+                818,
+                104
+            ],
+            [
+                1268,
+                104
+            ],
+            [
+                1268,
+                658
+            ],
+            [
+                818,
+                658
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "Camera6": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/Camera6_May_14_2024_12_00_00_AM.png",
+        "roi_points": [
+            [
+                576,
+                114
+            ],
+            [
+                1268,
+                114
+            ],
+            [
+                1268,
+                708
+            ],
+            [
+                576,
+                708
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    },
+    "B000C00U2813": {
+        "model_path_detect": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\detect\\train\\weights\\best.pt",
+        "model_path_segment": "C:\\Users\\yqjys\\Desktop\\AIroof\\yolov10-main\\runs\\segment\\train\\weights\\best.pt",
+        "reference_image": "C:/Users/yqjys/Desktop/AIroof/yolov10-main/datasets/standard/B000C00U2813-868020035312320-13032025080002-5-SYPW0240.png",
+        "roi_points": [
+            [
+                110,
+                1504
+            ],
+            [
+                4032,
+                1504
+            ],
+            [
+                4032,
+                2878
+            ],
+            [
+                110,
+                2878
+            ]
+        ],
+        "confidence_threshold": 0.2,
+        "area_ratio_threshold": 0.1
+    }
+}
