@@ -212,13 +212,15 @@ def generate_legend_pdf(path):
 
 # === Main function ===
 def main():
-    config_path = r"C:\Users\yqjys\Desktop\AIroof\camera_config.json"
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+
+    config_path = os.path.abspath(os.path.join(current_dir, '..', 'camera_config.json'))
     config_dict = load_camera_config(config_path)
 
-    img_dir = r'C:\Users\yqjys\Desktop\AIroof\yolov10-main\datasets\running test'
+    img_dir = os.path.join(current_dir, 'datasets', 'running test')
     pdf_file_list, excel_data = [], []
 
-    legend_path = r"C:\Users\yqjys\Desktop\AIroof\yolov10-main\results\legend.pdf"
+    legend_path = os.path.join(current_dir, 'results', 'legend.pdf')
     generate_legend_pdf(legend_path)
     pdf_file_list.append(legend_path)
 
@@ -227,7 +229,7 @@ def main():
         if img_path.lower().endswith(('.png', '.jpg', '.jpeg')):
             process_image_and_generate_report(img_path, pdf_file_list, excel_data, config_dict)
 
-    merge_pdfs(pdf_file_list, r'C:\Users\yqjys\Desktop\AIroof\yolov10-main\results\merged_results.pdf')
+    merge_pdfs(pdf_file_list, os.path.join(current_dir, 'results', 'merged_results.pdf'))
     # delete_predict_folders()
     # delete_segment_folders()
 
