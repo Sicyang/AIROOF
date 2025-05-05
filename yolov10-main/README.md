@@ -285,7 +285,7 @@ names:
 
 3️⃣ Run the script:
 
-python train_yolo_seg.py
+python segment.py
 
 ✅ Output will be saved under runs/segment/train/, including:
 
